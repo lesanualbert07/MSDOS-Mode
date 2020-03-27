@@ -17,4 +17,8 @@ The MS-DOS Mode will ONLY kill the process of explorer.exe (File Explorer) So do
 To start your normal computer again, Type in "explorer.exe" and close the Command Prompt manually
 ***WARNING: CLOSING COMMAND PROMPT USING "exit" OR WITH THE "X" BUTTON WITHOUT TYPING "explorer.exe" WILL RESULT IN A BLANK SCREEN***
 
+Programs not minimized may stay in the MS-DOS-Mode
+
+wait i said ms-dos too many times, how about "command prompt only"?
+
 Password: 3475
